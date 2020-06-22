@@ -1,0 +1,611 @@
+/*--------------------------------------------------------------
+    laptop, desktop
+---------------------------------------------------------------*/
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    .about-info {
+        padding: 30px 30px 35px;
+    }
+}
+
+
+/*--------------------------------------------------------------
+    tablet
+---------------------------------------------------------------*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+     .about-img img {
+        max-width: 300px;
+    }
+    .video-cont h2 {
+ 
+    font-size: 56px;
+}
+    .section-choose h2 {
+     font-size: 30px;
+    line-height: 30px;
+}
+    .about-info {
+        padding: 20px;
+    }
+     #about-area {
+        padding: 100px 0;
+    }
+    #video-area {
+        padding: 85px 0 90px;
+    }
+    #navbarContent {
+        background-color: #fff;
+    }
+    .navbar-nav {
+        padding: 20px 30px;
+    }
+    .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav .nav-item {
+        padding: 4px 10px;
+    }
+    .caption {
+        padding-top: 30px;
+    }
+    .caption h1 {
+        font-size: 46px;
+        line-height: 52px;
+    }
+   
+    #feature-area {
+        padding: 50px 0 20px;
+    }
+
+    
+    #newsletter-area {
+        padding: 50px 0 60px;
+    }
+ 
+    .why-chose-cont {
+        padding-left: 0;
+    }
+    #product-area {
+        padding: 55px 0 70px;
+    }
+    #blog-area {
+        padding: 50px 0;
+    }
+    #contact-area {
+        padding: 49px 0 110px;
+    }
+}
+
+
+/*--------------------------------------------------------------
+    large mobile
+----------------------------------------------------------------*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .about-img img {
+        max-width: 300px;
+        margin-bottom: 40px
+    }
+    #home-area {
+    padding: 60px 0 60px;
+}
+    #about-area {
+        padding: 80px 0;
+    }
+    #video-area {
+        padding: 70px 0 80px;
+    }
+    .video-cont {
+        padding-bottom: 40px;
+    }
+    #navbarContent {
+        background-color: #fff;
+    }
+    .navbar-nav {
+        padding: 20px 30px;
+    }
+    .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav .nav-item {
+        padding: 4px 10px;
+    }
+    .caption {
+        text-align: center;
+        padding: 0 0 60px;
+    }
+    .caption h1 {
+        margin-bottom: 20px;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .caption h2 {
+        font-size: 30px;
+    }
+    .caption a {
+        padding: 12px 30px;
+        margin-top: 22px;
+        font-size: 16px;
+    }
+    .caption-img img {
+        max-width: 300px;
+    }
+    .slide-single .caption-img img {
+        max-width: 300px;
+        margin: 0px auto 50px;
+    }
+    .slide-single .caption {
+        padding: 0
+    }
+    .home-slider .owl-dots {
+        top: auto;
+        width: 100%;
+        text-align: center;
+        bottom: -66px;
+        right: 0
+    }
+    .home-slider .owl-dot {
+        width: 12px;
+        height: 12px;
+        margin: 4px;
+        display: inline-block
+    }
+    .section-heading h2 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .feature-single {
+        margin: 0 0 60px;
+    }
+    #feature-area {
+        padding: 50px 0 30px;
+    }
+    .input.name {
+        margin: 0 0 15px;
+    }
+    #newsletter-area {
+        padding: 50px 0;
+    }
+  
+    .why-chose-cont {
+        padding: 40px 0 0;
+    }
+    .testi-single {
+        padding: 0 40px;
+    }
+    #blog-area {
+        padding: 40px 0 0px;
+    }
+    .blog-single {
+        margin: 0 0 50px;
+    }
+    .contact-info-single {
+        margin: 0 0 30px;
+    }
+    .contact-social li a {
+        padding: 5px 15px;
+        margin-bottom: 10px;
+    }
+    #contact-area {
+        padding: 60px 0 100px;
+    }
+}
+
+
+/*--------------------------------------------------------------
+   medium mobile
+----------------------------------------------------------------*/
+
+@media only screen and (min-width: 359px) and (max-width: 479px) {
+    .about-img img {
+        max-width: 250px;
+        line-height: 32px;
+    }
+    .brand-banner {
+    font-size: 70px;
+    line-height: 65px;
+}
+    .section-heading p {
+    margin-bottom: 50px;
+    font-size: 20px;
+    line-height: 26px;
+}
+    .section-choose h2 {
+    font-size: 29px;
+    line-height: 36px;
+}
+    .caption h3 {
+    font-size: 26px;
+    margin-bottom: 20px;
+    line-height: 35px;
+}
+    .feature-single h3 {
+    font-size: 26px;
+}
+    .animation-jump {
+    margin-top: 30px;
+}
+    #home-area {
+    padding: 50px 0 30px;
+}
+    .box_form {
+    padding: 30px 15px 30px;
+}
+   .about-info ul li {
+    display: block;
+    padding: 8px 0 0px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+    #why-choose-area {
+    padding: 40px 0;
+}
+.about-info {
+    padding: 20px;
+}
+    .margin-80 {
+    margin-bottom: 40px;
+}
+    #offerta{
+        font-size:40px
+    }
+    .video-cont h2{
+        font-size: 42px;
+        line-height: 59px;
+    }
+    #product-area {
+    padding: 30px 0 40px;
+}
+    .bottone {
+    min-width: 300px;
+}
+ .bottone-y {
+    min-width: 300px;
+}
+    #about-area {
+        padding: 40px 0;
+    }
+    #video-area {
+        padding: 20px 0 10px;
+    }
+    .video-cont {
+        padding-bottom: 20px;
+    }
+    #navbarContent {
+        background-color: #fff;
+    }
+    .video-cont h2 {
+
+    margin: 0 0 -20px;
+    
+}
+    .navbar-nav {
+        padding: 20px 30px;
+    }
+    .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav .nav-item {
+        padding: 4px 10px;
+    }
+    .caption {
+        text-align: center;
+        padding: 0 0 0px;
+    }
+    .caption h1 {
+    margin-bottom: 20px;
+    font-size: 65px;
+    line-height: 62px;
+    }
+    .caption h2 {
+        font-size: 37px;
+        line-height: 39px;
+        font-weight: 700;
+    }
+    .caption h5{
+        font-size: 18px;
+    line-height: 28px;
+    margin-top: 14px;
+    }
+    .caption a {
+        padding: 12px 30px;
+        margin-top: 22px;
+        font-size: 16px;
+    }
+    .caption-img img {
+        max-width: 300px;
+    }
+    .slide-single .caption-img img {
+        max-width: 300px;
+        margin: 0px auto 50px;
+    }
+    .home-slider .owl-dots {
+        top: auto;
+        width: 100%;
+        text-align: center;
+        bottom: -66px;
+        right: 0
+    }
+    .home-slider .owl-dot {
+        width: 12px;
+        height: 12px;
+        margin: 4px;
+        display: inline-block
+    }
+    .slide-single .caption {
+        padding: 0
+    }
+    .section-heading h2 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .feature-single {
+        margin: 0 0 35px;
+    }
+    #feature-area {
+        padding: 30px 0 30px;
+    }
+    
+    .input.name {
+        margin: 0 0 15px;
+    }
+    #newsletter-area {
+        padding: 50px 0;
+    }
+    
+    .why-chose-cont {
+        padding: 0px 0 0;
+    }
+    .testi-single {
+        padding: 0 40px;
+    }
+    #blog-area {
+        padding: 40px 0 0px;
+    }
+    .blog-single {
+        margin: 0 0 50px;
+    }
+    .contact-info-single {
+        margin: 0 0 30px;
+    }
+    .contact-social li a {
+        padding: 5px 15px;
+        margin-bottom: 10px;
+    }
+    #contact-area {
+        padding: 60px 0 100px;
+    }
+     p {
+    font-size: 17px;
+    color: #242632;
+    line-height: 23px;
+    letter-spacing: 1px;
+}
+.feature-single h5 {
+     line-height: 45px;
+}
+}
+
+
+/*--------------------------------------------------------------
+    small mobile
+----------------------------------------------------------------*/
+
+@media only screen and (min-width: 320px) and (max-width: 359px) {
+   #product-area {
+    padding: 30px 0 30px;
+}
+.brand-banner {
+    font-size: 60px;
+
+}
+.section-choose h2 {
+    margin: 20px 0 20px;
+    line-height: 30px;
+    font-size: 30px;
+}
+.animation-jump {
+    margin-top: -10px;
+    }
+.logo{
+    width: 100%;
+    max-width: 100px;
+}
+.box_form {
+    padding: 30px 0px 30px;
+}
+.about-info ul li {
+    display: block;
+    padding: 8px 0 0px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+.about-info {
+    padding: 28px;
+}
+#why-choose-area {
+    padding: 40px 0;
+}
+.section-heading p {
+    margin-bottom: 40px;
+    font-size: 18px;
+    line-height: 24px;
+}
+.margin-80{
+    margin-bottom: 40px;
+}
+#offerta{
+    font-size: 28px;
+}
+h2 {
+    font-size: 54px;
+    line-height: 60px;
+}
+
+.video-cont h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.video-cont h2 {
+    font-weight: 700;
+    margin: 0 0 -10px;
+    color: #000;
+    font-size: 38px;
+    line-height: 53px;
+}
+   
+    #home-area {
+    padding: 45px 0 30px;
+}
+.margin-30{
+    margin-top: 10px;
+}
+#anziche{
+    font-size: 25px; color: rgb(79, 77, 77); 
+}
+    .about-img img {
+        max-width: 250px;
+        margin-bottom: 40px
+    }
+    #about-area {
+        padding: 20px 0;
+    }
+     #video-area {
+        padding: 20px 0 10px;
+    }
+
+    .box_form .section-heading h2{
+        font-size: 29px;
+    }
+
+
+    .video-cont {
+        padding-bottom: 20px;
+    }
+    .bottone{
+    min-width: 260px;
+        }
+    .bottone-y{
+    min-width: 260px;
+        }
+    #navbarContent {
+        background-color: #fff;
+    }
+    .navbar-nav {
+        padding: 20px 30px;
+    }
+    .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav .nav-item {
+        padding: 4px 10px;
+    }
+    .caption {
+        text-align: center;
+        padding: 0 0 12px;
+    }
+    .caption h1 {
+        margin-bottom: 5px;
+        font-size: 56px;
+        line-height: 65px;
+    }
+    .caption h2 {
+    font-size: 33px;
+    line-height: 32px;
+    font-weight: 700;
+    }
+    .caption h3{
+        font-size: 24px;
+    margin-bottom: 10px;
+    line-height: 32px;
+    }
+
+    .caption a {
+        padding: 12px 30px;
+        margin-top: 22px;
+        font-size: 16px;
+    }
+    .caption-img img {
+        max-width: 250px;
+    }
+    .slide-single .caption-img img {
+        max-width: 250px;
+        margin: 0px auto 50px;
+    }
+    .slide-single .caption {
+        padding: 0
+    }
+    .home-slider .owl-dots {
+        top: auto;
+        width: 100%;
+        text-align: center;
+        bottom: -66px;
+        right: 0
+    }
+    .home-slider .owl-dot {
+        width: 12px;
+        height: 12px;
+        margin: 4px;
+        display: inline-block
+    }
+    .section-heading h2 {
+        font-size: 34px;
+        line-height: 36px;
+    }
+    .feature-single {
+        margin: 0 0 30px;
+    }
+    #feature-area {
+        padding: 20px 0 20px;
+    }
+    .input.name {
+        margin: 0 0 15px;
+    }
+    #newsletter-area {
+        padding: 50px 0;
+    }
+    
+    .why-chose-cont {
+        padding: 0px 0 0;
+    }
+    .testi-single {
+        padding: 0 40px;
+    }
+    #blog-area {
+        padding: 40px 0 0px;
+    }
+    .blog-single {
+        margin: 0 0 50px;
+    }
+    .contact-info-single {
+        margin: 0 0 30px;
+    }
+    .contact-social li a {
+        padding: 5px 15px;
+        margin-bottom: 10px;
+    }
+    #contact-area {
+        padding: 60px 0 100px;
+    }
+    p {
+    font-size: 17px;
+    color: #242632;
+    line-height: 23px;
+    letter-spacing: 1px;
+}
+.feature-single h5 {
+    font-size: 35px;
+    line-height: 36px;
+}
+.brand-banner {
+    font-size: 66px;
+    line-height: 63px;
+}
+.margin-b-40{
+    margin-bottom: 20px;
+}
+}
